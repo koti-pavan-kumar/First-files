@@ -2,3 +2,9 @@
 hai hwllow how are lorem 
 alasfjlajlfjlasfjlk;sajjdfl oooooooooo <br>
 hai hellow 
+
+
+
+
+
+(linked list)
